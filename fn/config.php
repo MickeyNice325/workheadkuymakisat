@@ -14,7 +14,7 @@
 
     //Set Time
     date_default_timezone_set('Asia/Bangkok');
-    $date = date('Y-M-D');
+    $date = date('Y-m-d');
     $time = date('H:i:s');
     
     //No Connect

@@ -15,11 +15,12 @@
     </head>
     <body>
         <?php
-            include("config.php");
+            include("fn/config.php");
         ?>
         <div class="container mt-3">
             <br><br><br><br>
-            <h2>ระบบดูการยืมคืนหนังสือ</h2>    
+            <h2>ระบบดูการยืมคืนหนังสือ</h2>
+            <a href="borrow.php" class="btn btn-outline-dark mb-3">จัดการข้อมูล</a> 
             <table class="table table-dark table-hover text-center">
                 <thead>
                     <tr>
