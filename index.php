@@ -21,6 +21,7 @@
             <br><br><br><br>
             <h2>ระบบดูการยืมคืนหนังสือ</h2>
             <a href="borrow.php" class="btn btn-outline-dark mb-3">จัดการข้อมูล</a> 
+            <a href="dashboard.php" class="btn btn-outline-dark mb-3">ดูสถิติ</a> 
             <table class="table table-dark table-hover text-center">
                 <thead>
                     <tr>

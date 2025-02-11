@@ -11,7 +11,7 @@
         echo"
             <script>
                 window.alert('บันทึกข้อมูลการยืมแล้ว');
-                window.location = '../index.php'
+                window.location = 'fn_destroy.php'
             </script>
        ";
     }else{
